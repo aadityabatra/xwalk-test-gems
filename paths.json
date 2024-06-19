@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/xwalk-test-gems/:/",
-    "/content/xwalk-test-gems/configuration:/.helix/config.json"
+    "/content/asset-picker/:/",
+    "/content/asset-picker/configuration:/.helix/config.json"
   ]
 }
