@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/asset-picker/:/",
-    "/content/asset-picker/configuration:/.helix/config.json"
+    "/content/custom-asset-picker/:/"
   ]
 }
